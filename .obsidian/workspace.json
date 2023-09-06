@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "337a372446f21e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa1eaf74f1aec607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48fb45403abd4450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Assembly/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30f3b9ebdd990de7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "733afe2ef731c0f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbf87121f0f00343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85cc979ad9773f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d70a2561a097516",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ace3db43c33a32d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cb9a0d10fccce02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65b89fd7c8b192a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1aeeedd873ffee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Assembly/Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bb69c65c984a5bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Assembly/Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c37fbc7f5c287661",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f98462d1282dcbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Assembly/Intro.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "48fb45403abd4450",
+  "lastOpenFiles": [
+    "Web Assembly/Intro.md",
+    "Web Assembly",
+    "Mathematical Foundations For ML/DS For Linear Algebra.md",
+    "Kafka/Fundamentals.md",
+    "Mathematical Foundations For ML",
+    "Kafka/Templates",
+    "Kafka/Templates/Terminology-template.md",
+    "Users/durga.harish/Downloads/kafka-architecture-core-kafka.svg.md",
+    "Users/durga.harish/Downloads",
+    "Users/durga.harish",
+    "Users",
+    "Kafka"
+  ]
+}

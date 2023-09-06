@@ -1,0 +1,1 @@
+<p><span style="color:#bb6be3;font-size:20px">{name}:</span> {content}.</p>
